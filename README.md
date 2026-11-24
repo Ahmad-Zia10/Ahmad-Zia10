@@ -20,10 +20,10 @@ AI Engineer at **GIT Software Technologies**, based in New Delhi. I build AI age
 
 #### Tech I use
 
-**AI:** LLM agents · RAG · LangChain / LangGraph · embeddings & reranking · evals · speech-to-speech
-**Backend:** Python · FastAPI · Node.js · Express · MongoDB · PostgreSQL
-**Frontend:** React · Next.js · TypeScript · Tailwind
-**Shipping:** Docker · GitHub Actions · Vercel · Render
+- **AI:** LLM agents · RAG · LangChain / LangGraph · embeddings & reranking · evals · speech-to-speech
+- **Backend:** Python · FastAPI · Node.js · Express · MongoDB · PostgreSQL
+- **Frontend:** React · Next.js · TypeScript · Tailwind
+- **Shipping:** Docker · GitHub Actions · Vercel · Render
 
 ---
 
